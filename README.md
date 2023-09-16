@@ -20,6 +20,6 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or would like to get in touch, you can reach me at [Your Email Address](mailto:sduranona97@gmail.com).
+If you have any questions or would like to get in touch, you can reach me through [LinkedIn](https://www.linkedin.com/in/sebastian-gomez-duranona-46bb87185).
 
 Thank you for visiting!
