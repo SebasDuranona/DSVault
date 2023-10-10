@@ -2,9 +2,10 @@
 
 Welcome to my DSVault repository. This repository houses various projects that I am currently exploring dealing with Data Structures. The main languages used in this repository will be Python and Java.
 
-## Project List (Under Construction)
+## Project List
 
-- [SortShowcase](SortShowcase/): A Python program for comparing and analyzing the performance of various sorting algorithms with step-by-step visualizations and nanosecond timing.
+- [Tutorials](DSTutorials/): Dive into the world of time complexities, data structures, and other algorithmic headscratchers. In this series of tutorials I explore various topics and provide starter code for beginners to start learning.
+- [Reading List](DSReadingList/): A curated list of low-cost/freely available books I have found useful to dive into different topics related to Data Structures.
 
 <!--
 - [Project 2 Name](project2/): Brief description.
