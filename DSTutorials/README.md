@@ -33,8 +33,6 @@ These are just a few examples of data structures. In the world of programming, t
 
 By exploring the data structures and their applications in this repository, my hope is that you will be able to equip yourself with essential tools for solving real-world problems and writing efficient code. Whether you're a college student or a self-taught coder, this knowledge will empower you on your journey to becoming a proficient software developer.
 
-I know the contents in this tutorial are not If you found the contents of this tutorial helpful, or if you have any questions, suggestions, or just want to reach out, feel free to send me a message or reach out through the contact information listed on my profile. 
-
 ## Acknowledgment
 
 Before wrapping this introduction up, I think it's important to acknowledge that introductory content on data structures is not particularly scarce on the web. Countless programmers and educators have generously shared their knowledge on this subject. I appreciate you for choosing to explore this repository out of all of the resources out there. If you found the contents of this tutorial helpful, or if you have any questions, suggestions, or just want to reach out, feel free to send me a message or reach out through the contact information listed on my profile. 
