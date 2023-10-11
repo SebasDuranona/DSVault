@@ -22,7 +22,7 @@ An array is a data structure that consists of a fixed-size, contiguous collectio
 Arrays support a variety of operations, including:
 
 - **Searching:** You can search for a specific element within an array by iterating through it or using optimized search algorithms like binary search.
-- **[Sorting:](/ArrayOperations/Sorting/arraySort.md)** You can sort the elements in an array using various sorting algorithms such as quicksort, bubblesort, or mergesort.
+- **[Sorting:](ArrayOperations/Sorting/arraySort.md)** You can sort the elements in an array using various sorting algorithms such as quicksort, bubblesort, or mergesort.
 
 Arrays are commonly used in scenarios where data retrieval needs to be efficient, such as when storing pixel values in an image, managing data in matrices, or implementing low-level data structures and algorithms.
 
