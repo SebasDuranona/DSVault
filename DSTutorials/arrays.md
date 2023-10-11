@@ -50,3 +50,5 @@ In this example, **'my_list'** is a Python list containing integers.
 Python lists offer great flexibility and are commonly used for a wide range of tasks, from managing collections of data to implementing dynamic data structures like stacks and queues.
 
 In summary, arrays and Python lists serve as fundamental tools for organizing and managing collections of data. While arrays have a fixed size and are homogeneous, Python lists are dynamic, allowing for variable-sized collections of heterogeneous elements. Depending on your programming needs, you can choose the most suitable option to efficiently work with data in your Python programs.
+=======
+>>>>>>> 143814672d10ff9c3f41eb8e73b8eab2d46da6a4
