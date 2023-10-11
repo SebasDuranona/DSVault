@@ -1,0 +1,4 @@
+# Introduction to Sorting with Arrays
+Sorting is a fundamental operation in computer science and data processing. It involves arranging a collection of elements in a specific order, often in ascending or descending order based on a defined criterion. Sorting plays a pivotal role in numerous applications, from organizing data for efficient retrieval to enabling faster searching and facilitating data analysis.
+
+In this article, we will explore the concept of sorting within the context of arrays, one of the most common data structures used for this purpose. We will cover the importance of sorting, the fundamental principles of various sorting algorithms, and their applications. A dedicated discussion about each algorithm including code examples, time complexities, and other particularities will be available in future articles. 
