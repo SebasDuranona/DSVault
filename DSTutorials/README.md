@@ -9,7 +9,7 @@ Data structures are fundamental building blocks in the world of computer science
 
 Below are the 5 most common Data Structures followed by a brief overview, and their applications to real-world problems. Throughout this tutorial, we will cover them in depth and provide implementations using the Python programming language. The Python programming language was chosen because it is widely used, portable, and friendly to all experience levels.
 
-### 1. Arrays and Lists:
+### 1. [Arrays and Lists](arrays.md):
    - **Overview:** Arrays and lists are ordered collections of elements. Arrays have a fixed size, while lists can dynamically resize.
    - **Applications:** They are used in various scenarios like storing a list of items, representing matrices, and implementing basic data structures.
 
