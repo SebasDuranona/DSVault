@@ -21,7 +21,7 @@ Below are the 5 most common Data Structures followed by a brief overview, and th
    - **Overview:** Stacks follow the Last-In-First-Out (LIFO) principle, while queues use the First-In-First-Out (FIFO) principle.
    - **Applications:** Stacks are used for function call management and undo functionality, while queues are essential in managing tasks in real-time applications like printers and operating systems.
 
-### 4. Trees:
+### 4. [Trees](trees.md):
    - **Overview:** Trees are hierarchical data structures with a root node, branches, and leaves. Common tree types include binary trees and balanced trees.
    - **Applications:** Trees are used in file systems, databases (e.g., B-trees), and as a foundation for searching and sorting algorithms.
 
