@@ -13,7 +13,7 @@ Below are the 5 most common Data Structures followed by a brief overview, and th
    - **Overview:** Arrays and lists are ordered collections of elements. Arrays have a fixed size, while lists can dynamically resize.
    - **Applications:** They are used in various scenarios like storing a list of items, representing matrices, and implementing basic data structures.
 
-### 2. Linked Lists:
+### 2. [Linked Lists](linkedLists.md):
    - **Overview:** Linked lists consist of nodes, where each node holds data and a reference to the next node. They come in various forms, such as singly, doubly, and circular linked lists.
    - **Applications:** Linked lists are employed in task scheduling, memory allocation, and as the basis for other data structures like stacks and queues.
 
